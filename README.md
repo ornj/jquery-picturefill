@@ -1,7 +1,7 @@
 # jQuery.picturefill
 
 This is an implementation of Scott Jehl's [scottjehl/picturefill](https://github.com/scottjehl/picturefill) wrapped as 
-a jQuery plugin. It has been tested with jQuery 1.9 and utilizes `[Modernizr.mq()](http://modernizr.com/docs/#mq)` for testing 
+a jQuery plugin. It has been tested with jQuery 1.9 and utilizes [`Modernizr.mq()`](http://modernizr.com/docs/#mq) for testing 
 media queries. 
 
 ## Why?
